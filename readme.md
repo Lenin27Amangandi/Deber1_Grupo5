@@ -57,6 +57,41 @@ Una opcion muy uitl para el uso de la terminal, es acceder a ella desde el Visua
 
 ## Segunda Clase
 
+## Taller MA01: Reporte de Actividad
+## Desarrollo de Habilidades para un buen trabajo en Equipo
+### Fecha: 2024-04-30
+
+En esta clase, realizamos una dinámica para ver nuestra capacidad de colaboración y creatividad. 
+
+### Materiales Utilizados:
+- Tallarines
+- Malvaviscos
+- Cinta adhesiva
+- Cinta métrica
+
+### Descripción de la Actividad:
+La tarea consistió en trabajar en equipo con un conjunto limitado de materiales: tallarines y malvaviscos. El objetivo era construir una torre utilizando la menor cantidad de recursos posible en 15 minutos. Además cada compañero solo podría utilizar una mano durante la construcción.
+
+### Experiencia de Grupo:
+Decidimos implementar una estrategia, formar una pirámide, utilizando un pentágono como base. Esta decisión surgió del lider. Una táctica efectiva fue asignar roles específicos: algunos se encargaban de sostener los malvaviscos mientras otros insertaban los tallarines. Esta distribución de tareas nos permitió optimizar nuestro tiempo y recursos de manera eficiente.
+
+### Rol del Líder:
+Nuestro líder demostró una habilidad para delegar responsabilidades y confiar en las capacidades individuales de cada miembro. Proporcionó instrucciones claras y luego permitió que el equipo trabajara en conjunto para alcanzar el objetivo. Su enfoque facilitó un ambiente de colaboración y autonomía.
+
+### Dinámica de Grupo:
+El grupo demostró capacidad para seguir instrucciones y adaptarse a los desafíos que surgieron durante la actividad. La comunicación fluida y la disposición para colaborar fueron fundamentales para superar cualquier obstáculo que encontramos en el camino hacia la construcción de nuestra torre.
+
+### Reflexión:
+Esta experiencia nos brindó una valiosa lección sobre la importancia del trabajo en equipo y la confianza mutua. Aprendimos que la creatividad nace cuando se fomenta un ambiente de colaboración y apertura a nuevas ideas. Además, reconocimos la importancia de la planificación y la asignación efectiva de roles para objetivos comunes.
+
+![Foto de la pirámide](https://i.ibb.co/c1vD8gB/Imagen-de-Whats-App-2024-05-03-a-las-20-03-33-dc8bf794.jpg)
+
+
+
+
+
+
+
 ## Tercera Clase
 
 ### ¿Qué es Git ?
