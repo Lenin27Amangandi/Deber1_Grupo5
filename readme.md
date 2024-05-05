@@ -128,3 +128,148 @@ Existen 3 etapa en las cuales nuestros archivos pueden estar:
 
 ![areas de trabajo](https://luisiblogdeinformatica.com/wp-content/uploads/2019/08/git-diagrama-repositorios-tutorial-1024x576.png)
 <!-- <img src="https://miro.medium.com/v2/resize:fit:1372/1*MiUAuocQcPc8sSxwu43HAQ.png" width="350px" height="250px"> -->
+
+
+##<font color='red'>***Comandos GIT***</font>
+
+En lo que respecta a los comandos observados en clase, ademas de los propuestos en la guia
+tenemos algunos que nos van a ayudar a lo largo del curso.
+
+
+<font color='skyblue'>***Configurar el nombre para los commits***</font>
+****
+```
+
+git config --global user.name "Andhiel"
+
+```
+
+<font color='skyblue'>***Configurar Email***</font>
+
+```md
+
+git config --global user.email andy.palace@gmail.com
+
+```
+<font color='skyblue'>***Marco de colores para los comandos***</font>
+
+```md
+
+git config --global color.ui true
+
+```
+
+Dentro de los comando basicos tenemos unos muy importante al momento de subir los archivos.
+
+<font color='skyblue'>***Iniciamos GIT en la carpeta donde esta el proyecto***</font>
+
+```md
+
+git init
+
+```
+<font color='skyblue'>***Clonamos el repositorio de github o bitbucket***</font>
+
+```md
+
+git clone <url>
+
+```
+<font color='skyblue'>***Hacemos el primer commit***</font>
+
+```md
+
+git commit -m "Texto que identifique por que se hizo el commit"
+
+```
+<font color='skyblue'>***Subimos al repositorio***</font>
+
+```md
+
+git push origin master
+
+```
+<font color='skyblue'>***Añadimos todos los archivos para el commit***</font>
+
+```md
+
+git add .
+
+```
+<font color='skyblue'>***Añadimos todos los archivos con la extensión especificada***</font>
+
+```md
+
+git add *.txt
+
+```
+<font color='skyblue'>***De haber conflictos los muestra***</font>
+
+```md
+
+git commit -a 
+
+```
+<font color='skyblue'>***Subimos al repositorio***</font>
+
+```md
+
+git push <origien> <branch>
+
+```
+<font color='skyblue'>***Muestra los logs de los commits***</font>
+
+```md
+
+git log
+
+```
+<font color='skyblue'>***Muestra los cambios realizados a un archivo***</font>
+
+```md
+
+git diff
+git diff --staged
+
+```
+<font color='skyblue'>***Devuelve el ultimo commit y todos los cambios***</font>
+
+```md
+
+git reset --hard HEAD^^
+
+```
+<font color='skyblue'>***Agregar repositorio remoto***</font>
+
+```md
+
+git remote add origin <url>
+
+```
+<font color='skyblue'>***Muestra una lista de todos los tags***</font>
+
+```md
+
+git tag
+
+```
+Los rebase se usan cuando trabajamos con branches esto hace que los branches se pongan al día con el master sin afectar al mismo.
+
+<font color='skyblue'>***Une el branch actual con el master o main, esto no se puede ver como un merge***</font>
+
+```md
+
+git rebase
+
+```
+<font color='skyblue'>***Lista un estado actual del repositorio con lista de archivos modificados o agregados***</font>
+
+```md
+
+git status
+
+```
+
+Estos son los que he considerado fundamentales para el uso que les vamos a dar.
+
+****
