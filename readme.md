@@ -14,10 +14,10 @@
 * Martin Dávalos
 * Cesar Zapata
 
-## Primera Clase
-# __Personalización de Visual Studio Code y Git Bash__
+## **Primera Clase**
+### __Personalización de Visual Studio Code y Git Bash__
 La personalización del entorno de trabajo es de gran importancia, ya que, independientemente de nuestras habilidades para programar y resolver problemas, siempre es más cómodo e ideal trabajar en un entorno que vaya acorde con nuestros gustos personales. Esto crea un ambiente de trabajo más eficiente y menos estresante. A continuación, veremos un breve resumen de cómo personalizar nuestro ambiente de trabajo tanto en Visual Studio Code como en Git Bash. <br> La personalización puede abarcar: la forma en la que se presenta, funciones extras, iconos, etc.  
-## ___Visual Studio Code___
+### __Visual Studio Code__
 Podemos utilizar algunas herramientas fáciles de encontrar e instalar en un entorno de programación predeterminado; sin embargo, Visual Studio Code hace esta tarea mucho más fácil. Simplemente se elige una extención de nuestro agrado y la instalamos dando clic en "install", el tema que hayamos elegido se aplicara automaticamente, aunque si tenemos más de uno podemos elgir cual aplicar.<br> Ejemplos de temas para Visual Studio Code:
 - [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)<br><img src="https://windows.atsit.in/es/wp-content/uploads/sites/10/2023/03/los-mejores-temas-de-codigo-de-visual-studio-1.png" width="20%" alt="OneDarkPro" style="margin-right: 200px;"/><img src="https://res.cloudinary.com/dyjrfa6c2/image/upload/v1634884714/Screenshot_2021-10-22_123331_ws20xr.png" width="40%" alt="ImgOneDarkPro"/><br>
 - [Gruvbox Theme](https://marketplace.visualstudio.com/items?itemName=jdinhlife.gruvbox)<br><img src="https://alexanderbast.gallerycdn.vsassets.io/extensions/alexanderbast/vscode-snazzy/2.9.0/1518981597488/Microsoft.VisualStudio.Services.Icons.Default" width="20%" alt="Gruvbox" style="margin-right: 200px;"/><img src="https://camo.githubusercontent.com/003f1d1e16aefc62ecb200b5e4eb08a214641618380541dd6290cfc601cb3b7e/687474703a2f2f692e696d6775722e636f6d2f476b496c38466e2e706e67" width="40%" alt="ImgGruvbox"/><br>
@@ -55,11 +55,11 @@ Una opcion muy uitl para el uso de la terminal, es acceder a ella desde el Visua
 </div><br>
 
 
-## Segunda Clase
+## **Segunda Clase**
 
-## Taller MA01: Reporte de Actividad
-## Desarrollo de Habilidades para un buen trabajo en Equipo
-### Fecha: 2024-04-30
+#### Taller MA01: Reporte de Actividad
+#### Desarrollo de Habilidades para un buen trabajo en Equipo
+#### Fecha: 2024-04-30
 
 En esta clase, realizamos una dinámica para ver nuestra capacidad de colaboración y creatividad. 
 
@@ -86,13 +86,65 @@ Esta experiencia nos brindó una valiosa lección sobre la importancia del traba
 
 ![Foto de la pirámide](https://i.ibb.co/c1vD8gB/Imagen-de-Whats-App-2024-05-03-a-las-20-03-33-dc8bf794.jpg)
 
+## **Tercera Clase**
 
+### ¿Qué es Markdown ?
 
+Markdown es un lenguaje de texto en el cual se puede escribir texto de forma sencilla y usualmente es usado para leerlo en cualquier equipo, ya que a diferencia de un archivo word o pdf, markdown no necesita oficialmente un programa en específico que lo lea, ya que se puede abrir en un block de notas o navegador, además mediantes extensiones se lo puede instalar en el vsc.
 
+<img src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/VSCode-Ultimate-Markdown-Editor-Cover.jpg" width="250px" height="140px">
 
+### Sintaxis de Markdown
 
+1. Encabezados: Para los encabezados,titulos y subtitulos se debe utilizar el simbolo # loos cuales van concadenados desde el 1-6.
 
-## Tercera Clase
+* #Markdown#
+
+* #Markdown##
+
+* ###Markdown###
+
+2. Negrillas y cursivas:
+
+* **Negrillas**= ** palabra **
+* _Cursiva_= __ palabra __
+
+3. Imágenes: Para insertar una imagen ya sea remota o local se utiliza el siguiente formato ! [] ( ) o simplemente se escribe la palabra imgage y el editor nos ayudara. Además hay que tener en cuenta que las modificaciones como el tamaño de la imagen no se los puede realizar en Markdown, para esta situación se debe hacer uso lenguaje html.
+
+4. Listas: Para las listas no ordenadas se utiliza el símbolo * y para las listas ordenadas se utiliza en número seguido de un punto.
+
+    1.Estudiante1
+    2.Estudiante2
+    3.Estudiante3
+
+    *Java *Html * Css
+
+5. Codigo: Markdown puede resaltar de colores un codigo siempre que se haga enfacis en su lenguaje, se utiliza 3 veces el simbolo de la tilde antes y despues del pedazo de codigo.
+
+``` java
+public class HolaMundo {
+
+  public static void main(String[] args) {
+        System.out.println("Hola Mundo");
+  }
+} 
+```
+
+6. Tablas: Para crear tablas debemos crear las barras verticales | Columna1 | Columna2 | (alt + 124)
+
+| Lenguaje | IDE |
+|------   | ------|
+|java |Eclipse,Visual y Netbeans|
+
+7. Para colocar citas se puede utilizar el simbolo menor que > (Alt+62)
+> Ejemplo de cita.
+
+## MarkDown PDF
+
+Markdown PDF es una extension que puede ser instalada en el VSCode que nos permite exportar un proyecto Markdown a pedf.
+
+<img src="https://i.ytimg.com/vi/4pGz01s_OZs/maxresdefault.jpg" width="250px" height="140px">
+__
 
 ### ¿Qué es Git ?
 
@@ -129,8 +181,7 @@ Existen 3 etapa en las cuales nuestros archivos pueden estar:
 ![areas de trabajo](https://luisiblogdeinformatica.com/wp-content/uploads/2019/08/git-diagrama-repositorios-tutorial-1024x576.png)
 <!-- <img src="https://miro.medium.com/v2/resize:fit:1372/1*MiUAuocQcPc8sSxwu43HAQ.png" width="350px" height="250px"> -->
 
-
-##<font color='red'>***Comandos GIT***</font>
+## <font color='red'>***Comandos GIT***</font>
 
 En lo que respecta a los comandos observados en clase, ademas de los propuestos en la guia
 tenemos algunos que nos van a ayudar a lo largo del curso.
@@ -274,7 +325,7 @@ Estos son los que he considerado fundamentales para el uso que les vamos a dar.
 
 
 
-# Ramas Git
+## Ramas Git
 
 ###  Ramificaciones en Git
 
@@ -297,7 +348,6 @@ Sobre una rama se encuentra el marcador HEAD y si este no se encuentra sobre la 
   $ git branch problemas
 
 ```
-
 
  Usando el comando *git log --oneline --decorate* se puede verificar que:
 
@@ -347,9 +397,7 @@ Hacemos unos cambios y los confirmamos:
 
  ```
 
----
-
-# Fusion
+## Fusion
 
 Supongamos que nos llaman para realizar una correccion de ultimo momento en nuestro proyecto, nosotros creamos una nueva rama para trabajar ese conflicto, verificamos y testeamos nuestros cambios y realizamos una fusion (merge) para enviar a la produccion principal (push).
 
@@ -407,14 +455,14 @@ Borramos la rama hotfix porque no la necesitaremos mas:
 
 ----
 
-# Administrar proyectos en un repositorio remoto.
+### Administrar proyectos en un repositorio remoto.
 
 Creando una cuenta en Github,  y conociendo la url que nos lleva hacia un repositorio remoto:
 
 ```console
  $ git remote add github https://server/namespace/project.git
  ```
- Y si no tenemos una copia local del mismo: 
+ Y si no tenemos una copia local del mismo:
 
  ```console
    $ git clone https://server/namespace/project.git
