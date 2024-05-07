@@ -4,7 +4,7 @@
 
 <!-- ![Logo Politecnica]( https://www.epn.edu.ec/wp-content/uploads/2022/08/logo-epn-vertical.png ) -->
 
-<img src="recursosImgs/Logo epn 2.png" alt="Logo epn" width="150px" height="150px">
+<img src="Personalizaciones_VSC//Logo epn 2.png" alt="Logo epn" width="150px" height="150px">
 
 **Integrantes:**
 
