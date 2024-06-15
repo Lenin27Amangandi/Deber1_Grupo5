@@ -61,6 +61,7 @@ public class MartinDavalos {
         }
         return true;
     }
+    
     public void mdSN6(int mdCantidadCaracteres){
         for(int i = 1; i <= mdCantidadCaracteres; i++){
           System.out.print((i*i)+"  ");
