@@ -3,9 +3,9 @@ import java.util.InputMismatchException;
 
 
 public class App {
+    public static Scanner scan = new Scanner(System.in);
     public static void main(String[] args) {
 
-        Scanner scan   = new Scanner(System.in);
         ZapataCesar sn = new ZapataCesar();
         ZapataCesar sc = new ZapataCesar();
         ZapataCesar sf = new ZapataCesar();
